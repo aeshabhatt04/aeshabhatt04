@@ -18,9 +18,6 @@ analytics platforms.
 - AWS Certified Data Engineer – Associate
 - AWS Certified Cloud Practitioner
 
-## 📊 GitHub Stats
-![Aesha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeshabhatt04&show_icons=true&theme=tokyonight&hide_border=true)
-
 ## 📌 Currently
 - 🔭 Building end-to-end data engineering projects
 - 🌱 Deepening expertise in dbt, Snowflake, and real-time streaming
